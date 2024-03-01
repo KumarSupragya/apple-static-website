@@ -1,0 +1,65 @@
+
+/* this section is for top nav */
+
+.top-nav
+{
+    background: black;
+    color: white;
+    height: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 70px;
+}
+
+.top-nav span{
+    font-size: 12px;
+}
+
+.sec-nav 
+{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: #1D1D1F;
+    color: white;
+    height: 40px;
+}
+
+.apple-image
+{
+    width: 14px;
+    padding-bottom: 3px;
+}
+
+.third-div
+{
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+    background: black;
+    color: white;
+    height: 550px;
+    gap: 30px;
+}
+
+.phone-model
+{
+    padding-top: 30px;
+}
+
+.phone-img
+{
+    width: 80%;
+}
+
+.buy-button
+{
+    width: 73px;
+    height: 44px;
+    background: rgba(0, 113, 227, 1);
+    border-radius: 0px 18px 0px 18px;
+    border: none;
+
+}
